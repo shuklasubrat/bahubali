@@ -12,6 +12,5 @@ exit
 :hate
 echo But I love you....hehehehehe
 echo You are hacked...
-echo Your PC will crash in 10 seconds
-timeout 10
+echo Your PC will crash in 100 seconds
 shutdown -s -t 100
