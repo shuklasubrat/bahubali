@@ -1,5 +1,5 @@
 @echo off
 color 02
-:hell
+:avi
 echo  %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random% %random%
-goto hell
+goto avi
